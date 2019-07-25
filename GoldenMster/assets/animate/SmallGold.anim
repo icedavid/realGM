@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "SmallGold",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.48333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4aad8486-dac5-4fb1-abff-fd558646b926"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "46233f3f-ffc9-4ad0-9faf-d68c43cf8323"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "e2378211-040d-4b77-a382-5f8663ba0dc6"
+            }
+          },
+          {
+            "frame": 0.4666666666666667,
+            "value": {
+              "__uuid__": "14991c18-9d74-42d2-afca-d171fb64b29d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

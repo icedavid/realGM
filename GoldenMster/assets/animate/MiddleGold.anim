@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MiddleGold",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d6742248-e3eb-4d18-a660-7f25a180abc1"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "9f600998-6d0b-4064-b202-d2c0fcacf3f0"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "8c5780e8-f598-450c-b6bd-415405ef8c2c"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "e203002d-3f45-4ee2-8282-272488c61ee7"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
