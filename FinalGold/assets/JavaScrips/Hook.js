@@ -35,7 +35,10 @@ cc.Class({
         objNode.width=other.node.width;
         objNode.height=other.node.height;
         this.objShow();
-        other.destroy();
+        other.node.destroy();
+        // if(cc.isValid(other.node)){
+        //     alert('节点已销毁');
+        // }
         //other.node.destroy();
         
     },
